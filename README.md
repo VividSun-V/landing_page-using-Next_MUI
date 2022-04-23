@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <a href="https://github.com/VividSun-V/landing_page-using-Next_MUI">
+  Coursespace - React Online Course Landing Page
+  </a>
+  <br />
+</h1>
+
+![screenshot](public/images/image_processing20220419-31825-1yzr3x9.png)
+
+**Coursespace** is a landing page built on top of **Material UI** and fully coded in **React**.0
+Simple & light is designed to provide all the basic components using the `sx` prop for a developer need to create landing page for Online Course product.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
